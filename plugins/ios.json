@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "com.ionicframework.ionictemplateloginregister869000"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.ionicframework.ionictemplateloginregister869000"
+        },
+        "org.pbernasconi.progressindicator": {
+            "PACKAGE_NAME": "com.ionicframework.ionictemplateloginregister869000"
+        },
+        "cordova-plugin-app-preferences": {
+            "PACKAGE_NAME": "com.ionicframework.ionictemplateloginregister869000"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.ionicframework.ionictemplateloginregister869000"
+        }
+    },
+    "dependent_plugins": {}
+}
